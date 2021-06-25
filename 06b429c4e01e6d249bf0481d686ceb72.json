@@ -1,126 +1,312 @@
 {
-  "Ads": [
-    {
-      "select_ads": "ADMOB",
-      "status_app": "0",
-      "link_redirect": "https://",
-      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
-      "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
-      "admob_openid": "ca-app-pub-3940256099942544/1033173712",
-      "admob_rewardid": "ca-app-pub-3940256099942544/5224354917",
-      "startappid": "201669628",
-      "fan_inter": "612492376332507_612493222999089",
-      "fan_banner_native": "612492376332507_612492762999135",
-      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
-      "mopub_inter": "24534e1901884e398f1253216226017e",
-      "mopub_reward": "",
-      "applovin_banner": "db4d5e8718b97d78",
-      "applovin_inter": "518cd97722c60b52",
-      "applovin_reward": "0630ab53dd5e71c1",
-      "interval": 5,
-      "coin_reward": 1000
-    }
-  ],
-  "More":
-  [
-    {
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
-    },
-    {
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-    },
-    {
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
-    }
-  ],
-
-  "Categories": [
-    {
-      "name_category": "River",
-      "image": "https://images.pexels.com/photos/2217365/pexels-photo-2217365.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
-
-    },
-    {
-      "name_category": "Mountain",
-      "image": "https://images.pexels.com/photos/4215113/pexels-photo-4215113.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
-
-    },
-    {
-      "name_category": "Beach",
-      "image": "file:///android_asset/image/beach.jpeg"
-
-    },
-    {
-      "name_category": "Waterfall",
-      "image": "https://images.pexels.com/photos/2743287/pexels-photo-2743287.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
-
-    }
-  ],
-
-  "Data":
-  [
-    {
-      "id":1,
-      "name_category": "River",
-      "title":"Riverand Pine",
-      "image":"https://images.pexels.com/photos/2217365/pexels-photo-2217365.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-      "coin":150
-    },
-    {
-      "id": 2,
-      "name_category": "River",
-      "title": "Water Near Mountains",
-      "image": "https://images.pexels.com/photos/1192662/pexels-photo-1192662.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-      "coin":300
-    },
-    {
-      "id":3,
-      "name_category": "River",
-      "title":"Snow Covered",
-      "image":"https://images.pexels.com/photos/816036/pexels-photo-816036.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-      "coin":0
-    },
-    {
-      "id":4,
-      "name_category": "Mountain",
-      "title":"Green Grass",
-      "image":"https://images.pexels.com/photos/4215113/pexels-photo-4215113.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-      "coin":0
-    }
-  ,
-    {
-      "id":5,
-      "name_category": "Mountain",
-      "title":"Empty Highway",
-      "image":"https://images.pexels.com/photos/1955134/pexels-photo-1955134.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-      "coin":200
-    },
-    {
-      "id":6,
-      "name_category": "Beach",
-      "title":"Aerial",
-      "image":"file:///android_asset/image/beach.jpeg",
-      "coin":100
-    },
-    {
-      "id":7,
-      "name_category": "Beach",
-      "title":"Palm Trees",
-      "image":"file:///android_asset/image/palm.jpeg",
-      "coin":100
-    },
-    {
-      "id":8,
-      "name_category": "Waterfall",
-      "title":"Waterfalls Rain",
-      "image":"https://images.pexels.com/photos/1620372/pexels-photo-1620372.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-      "coin":100
-    }
-  ]
+   "Ads":[
+      {
+         "select_ads":"ADMOB",
+         "status_app":"0",
+         "link_redirect":"https://",
+         "admob_interid":"ca-app-pub-3940256099942544/1033173712",
+         "admob_nativeid":"ca-app-pub-3940256099942544/2247696110",
+         "admob_openid":"ca-app-pub-3940256099942544/1033173712",
+         "admob_rewardid":"ca-app-pub-3940256099942544/5224354917",
+         "startappid":"201669628",
+         "fan_inter":"612492376332507_612493222999089",
+         "fan_banner_native":"612492376332507_612492762999135",
+         "mopub_banner":"b195f8dd8ded45fe847ad89ed1d016da",
+         "mopub_inter":"24534e1901884e398f1253216226017e",
+         "mopub_reward":"",
+         "applovin_banner":"db4d5e8718b97d78",
+         "applovin_inter":"518cd97722c60b52",
+         "applovin_reward":"0630ab53dd5e71c1",
+         "interval":5,
+         "coin_reward":1000
+      }
+   ],
+   "More":[
+      {
+         "title":"Ludo King",
+         "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+         "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      }
+   ],
+   "Categories":[
+      {
+         "name_category":"Player",
+         "image":"https://images.pexels.com/photos/2217365/pexels-photo-2217365.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+      }
+   ],
+   "Data":[
+      {
+         "id":1,
+         "name_category":"Player",
+         "title":"David Alaba",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/00.jpeg",
+         "coin":150
+      },
+      {
+         "id":2,
+         "name_category":"Player",
+         "title":"Karim",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/01.jpeg",
+         "coin":300
+      },
+      {
+         "id":3,
+         "name_category":"Player",
+         "title":"Cristiano",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/02.jpeg",
+         "coin":600
+      },
+      {
+         "id":4,
+         "name_category":"Player",
+         "title":"Benzema",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/03.jpeg",
+         "coin":500
+      },
+      {
+         "id":5,
+         "name_category":"Player",
+         "title":"Ronaldo",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/04.jpeg",
+         "coin":700
+      },
+      {
+         "id":6,
+         "name_category":"Player",
+         "title":"GER HUN",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/05.jpeg",
+         "coin":100
+      },
+      {
+         "id":7,
+         "name_category":"Player",
+         "title":"Romelu",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/06.jpeg",
+         "coin":400
+      },
+      {
+         "id":8,
+         "name_category":"Player",
+         "title":"Kevin",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/07.jpeg",
+         "coin":600
+      },
+      {
+         "id":8,
+         "name_category":"Player",
+         "title":"Kevin",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/07.jpeg",
+         "coin":600
+      },
+      {
+         "ids":9,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/08.jpeg",
+         "coin":150
+      },
+      {
+         "ids":10,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/09.jpeg",
+         "coin":150
+      },
+      {
+         "ids":11,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/10.jpeg",
+         "coin":150
+      },
+      {
+         "ids":12,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/11.jpeg",
+         "coin":150
+      },
+      {
+         "ids":13,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/12.jpeg",
+         "coin":150
+      },
+      {
+         "ids":14,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/13.jpeg",
+         "coin":150
+      },
+      {
+         "ids":15,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/14.jpeg",
+         "coin":150
+      },
+      {
+         "ids":16,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/15.jpeg",
+         "coin":150
+      },
+      {
+         "ids":17,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/16.jpeg",
+         "coin":150
+      },
+      {
+         "ids":18,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/17.jpeg",
+         "coin":150
+      },
+      {
+         "ids":19,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/18.jpeg",
+         "coin":150
+      },
+      {
+         "ids":20,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/19.jpeg",
+         "coin":150
+      },
+      {
+         "ids":21,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/20.jpeg",
+         "coin":150
+      },
+      {
+         "ids":22,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/21.jpeg",
+         "coin":150
+      },
+      {
+         "ids":23,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/22.jpeg",
+         "coin":150
+      },
+      {
+         "ids":24,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/23.jpeg",
+         "coin":150
+      },
+      {
+         "ids":25,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/24.jpeg",
+         "coin":150
+      },
+      {
+         "ids":26,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/25.jpeg",
+         "coin":150
+      },
+      {
+         "ids":27,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/26.jpeg",
+         "coin":150
+      },
+      {
+         "ids":28,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/27.jpeg",
+         "coin":150
+      },
+      {
+         "ids":29,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/28.jpeg",
+         "coin":150
+      },
+      {
+         "ids":30,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/29.jpeg",
+         "coin":150
+      },
+      {
+         "ids":31,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/30.jpeg",
+         "coin":150
+      },
+      {
+         "ids":32,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/31.jpeg",
+         "coin":150
+      },
+      {
+         "ids":33,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/32.jpeg",
+         "coin":150
+      },
+      {
+         "ids":34,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/33.jpeg",
+         "coin":150
+      },
+      {
+         "ids":35,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/34.jpeg",
+         "coin":150
+      },
+      {
+         "ids":36,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/35.jpeg",
+         "coin":150
+      },
+      {
+         "ids":37,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/36.jpeg",
+         "coin":150
+      },
+      {
+         "ids":38,
+         "name_category":"Player",
+         "title":"Who Am I?",
+         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/37.jpeg",
+         "coin":150
+      }
+   ]
 }
