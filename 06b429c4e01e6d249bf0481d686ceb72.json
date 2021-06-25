@@ -39,7 +39,7 @@
          "id":1,
          "name_category":"Player",
          "title":"David Alaba",
-         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/00.jpeg",
+         "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
          "coin":150
       },
       {
@@ -54,49 +54,7 @@
          "name_category":"Player",
          "title":"Cristiano",
          "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/02.jpeg",
-         "coin":600
-      },
-      {
-         "id":4,
-         "name_category":"Player",
-         "title":"Benzema",
-         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/03.jpeg",
-         "coin":500
-      },
-      {
-         "id":5,
-         "name_category":"Player",
-         "title":"Ronaldo",
-         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/04.jpeg",
-         "coin":700
-      },
-      {
-         "id":6,
-         "name_category":"Player",
-         "title":"GER HUN",
-         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/05.jpeg",
-         "coin":100
-      },
-      {
-         "id":7,
-         "name_category":"Player",
-         "title":"Romelu",
-         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/06.jpeg",
-         "coin":400
-      },
-      {
-         "id":8,
-         "name_category":"Player",
-         "title":"Kevin",
-         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/07.jpeg",
-         "coin":600
-      },
-      {
-         "ids":9,
-         "name_category":"Player",
-         "title":"Who Am I?",
-         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/08.jpeg",
-         "coin":150
+         "coin":0
       }
    ]
 }
