@@ -92,13 +92,6 @@
          "coin":600
       },
       {
-         "id":8,
-         "name_category":"Player",
-         "title":"Kevin",
-         "image":"https://aenin8052.github.io/06b429c4e01e6d249bf0481d686ceb72/07.jpeg",
-         "coin":600
-      },
-      {
          "ids":9,
          "name_category":"Player",
          "title":"Who Am I?",
