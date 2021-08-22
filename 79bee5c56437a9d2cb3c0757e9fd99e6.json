@@ -1,0 +1,70 @@
+{
+   "Ads":[
+      {
+         "select_ads":"ADMOB",
+         "select_backup_ads":"APPLOVIN",
+         "backup_mode":"1",
+         "status_app":"0",
+         "link_redirect":"https://",
+         "admob_interid":"ca-app-pub-1106244190530473/6444971030x",
+         "admob_nativeid":"ca-app-pub-1106244190530473/4600572176x",
+         "admob_openid":"ca-app-pub-3940256099942544/3419836494x",
+         "interval_intertitial":2,
+         "startappid":"",
+         "fan_inter":"",
+         "fan_banner_native":"",
+         "fan_banner":"",
+         "mopub_banner":"",
+         "mopub_inter":"",
+         "applovin_banner":"a07be28b46adc86e",
+         "applovin_inter":"99e2adda1532dd8f",
+         "packagename":"com.newnormal.walkthrough0x01"
+      }
+   ],
+   "More":[
+      {
+         "id":1,
+         "title":"Check This Out!",
+         "image":"https://1.bp.blogspot.com/-ANYJ3lo9hMo/XWo5kJoQXgI/AAAAAAAAAqo/25dUM8NQFocMXLAnbw19MkWdsHxG6TuZQCLcBGAs/s320/EAA8F27A-73E1-4C4E-8A96-3FBD306CBD47.jpeg",
+         "link":"https://play.google.com/store/apps/developer?id=NEWNORMAL"
+      }
+   ],
+   "Categories":[
+      {
+         "id":1,
+         "name_category":"UC Calculator",
+         "image":"https://1.bp.blogspot.com/-ANYJ3lo9hMo/XWo5kJoQXgI/AAAAAAAAAqo/25dUM8NQFocMXLAnbw19MkWdsHxG6TuZQCLcBGAs/s320/EAA8F27A-73E1-4C4E-8A96-3FBD306CBD47.jpeg"
+      }
+   ],
+   "Data":[
+      {
+         "id":4,
+         "name_category":"UC Calculator",
+         "title":"UC Calculator for X-Suit Poseidon",
+         "image":"file:///android_asset/image/xsuit_poseidon_redemption.jpg",
+         "description":"...",
+         "link":"<h1 align=center>UC Calculator for X-Suit Poseidon</h1><table border=1 align=center bordercolor=cyan>	<thead>		<tr>			<td valign=top align=center>Player</td>			<td valign=top align=center>1 Star</td>			<td valign=top align=center>Budget</td>			<td valign=top align=center>MAX Star</td>			<td valign=top align=center>Budget</td>			<td valign=top align=center>Price 1 UC</td>		</tr>	</thead>	<tbody>		<tr>			<td valign=top align=center>Levinho</td>			<td valign=top align=center>6000 UC</td>			<td valign=top align=center>&#8364;49.8</td>			<td valign=top align=center>TBD</td>			<td valign=top align=center>TBD</td>			<td valign=top align=center>&#8364;0.0083</td>		</tr>	</tbody>	<tbody>		<tr>			<td valign=top align=center>Sevou</td>			<td valign=top align=center>30000 UC</td>			<td valign=top align=center>&#8364;249</td>			<td valign=top align=center>TBD</td>			<td valign=top align=center>TBD</td>			<td valign=top align=center>&#8364;0.0083</td>		</tr>	</tbody>	<tbody>		<tr>			<td valign=top align=center>Panda</td>			<td valign=top align=center>600 UC</td>			<td valign=top align=center>&#8364;49.8</td>			<td valign=top align=center>150000 UC</td>			<td valign=top align=center>&#8364;1245</td>			<td valign=top align=center>&#8364;0.0083</td>		</tr>	</tbody>	<tbody>		<tr>			<td valign=top align=center>Wynnsanity</td>			<td valign=top align=center>24000 UC</td>			<td valign=top align=center>$232.8</td>			<td valign=top align=center>100000 UC</td>			<td valign=top align=center>$970</td>			<td valign=top align=center>$0.0097</td>		</tr>	</tbody>	<tbody>		<tr>			<td valign=top align=center>Tacaz</td>			<td valign=top align=center>600 UC</td>			<td valign=top align=center>Rp83940</td>			<td valign=top align=center>TBD</td>			<td valign=top align=center>TBD</td>			<td valign=top align=center>Rp139.9</td>		</tr>	</tbody></table><h2 align=center>Conclusion</h2><p align=center>The more you buy UC, the more you save money.</p>"
+      },{
+         "id":3,
+         "name_category":"UC Calculator",
+         "title":"UC Calculator for EU EUR",
+         "image":"file:///android_asset/image/eu.png",
+         "description":"...",
+         "link":"<h1 align=center>UC Calculator for EU &#8364;</h1><table border=1 align=center bordercolor=blue>	<thead>		<tr>			<td valign=top align=center>Budget</td>			<td valign=top align=center>Basic UC</td>			<td valign=top align=center>Bonus UC</td>			<td valign=top align=center>Total UC</td>			<td valign=top align=center>Price 1 UC</td>		</tr>	</thead>	<tbody>		<tr>			<td valign=top align=center>&#8364;5.94</td>			<td valign=top align=center>500</td>			<td valign=top align=center>30</td>			<td valign=top align=center>530</td>			<td valign=top align=center>&#8364;0.011</td>		</tr>		<tr>			<td valign=top align=center>&#8364;8.9</td>			<td valign=top align=center>750</td>			<td valign=top align=center>75</td>			<td valign=top align=center>825</td>			<td valign=top align=center>&#8364;0.011</td>		</tr>		<tr>			<td valign=top align=center>&#8364;14.84</td>			<td valign=top align=center>1250</td>			<td valign=top align=center>125</td>			<td valign=top align=center>1375</td>			<td valign=top align=center>&#8364;0.011</td>		</tr>		<tr>			<td valign=top align=center>&#8364;29.68</td>			<td valign=top align=center>2500</td>			<td valign=top align=center>375</td>			<td valign=top align=center>2875</td>			<td valign=top align=center>&#8364;0.010</td>		</tr>		<tr>			<td valign=top align=center>&#8364;59.35</td>			<td valign=top align=center>5000</td>			<td valign=top align=center>1500</td>			<td valign=top align=center>6500</td>			<td valign=top align=center>&#8364;0.0091</td>		</tr>		<tr>			<td valign=top align=center>&#8364;89.03</td>			<td valign=top align=center>7500</td>			<td valign=top align=center>2775</td>			<td valign=top align=center>10725</td>			<td valign=top align=center>&#8364;0.0083</td>		</tr>	</tbody></table><h2 align=center>Conclusion</h2><p align=center>The more you buy UC, the more you save money.</p>"
+      },{
+         "id":2,
+         "name_category":"UC Calculator",
+         "title":"UC Calculator for US $",
+         "image":"file:///android_asset/image/us.png",
+         "description":"...",
+         "link":"<h1 align=center>UC Calculator for US $</h1><table border=1 align=center bordercolor=green>	<thead>		<tr>			<td valign=top align=center>Budget</td>			<td valign=top align=center>Basic UC</td>			<td valign=top align=center>Bonus UC</td>			<td valign=top align=center>Total UC</td>			<td valign=top align=center>Price 1 UC</td>		</tr>	</thead>	<tbody>		<tr>			<td valign=top align=center>$6.94</td>			<td valign=top align=center>500</td>			<td valign=top align=center>30</td>			<td valign=top align=center>530</td>			<td valign=top align=center>$0.013</td>		</tr>		<tr>			<td valign=top align=center>$10.41</td>			<td valign=top align=center>750</td>			<td valign=top align=center>75</td>			<td valign=top align=center>825</td>			<td valign=top align=center>$0.013</td>		</tr>		<tr>			<td valign=top align=center>$17.36</td>			<td valign=top align=center>1250</td>			<td valign=top align=center>125</td>			<td valign=top align=center>1375</td>			<td valign=top align=center>$0.013</td>		</tr>		<tr>			<td valign=top align=center>$34.71</td>			<td valign=top align=center>2500</td>			<td valign=top align=center>375</td>			<td valign=top align=center>2875</td>			<td valign=top align=center>$0.012</td>		</tr>		<tr>			<td valign=top align=center>$69.43</td>			<td valign=top align=center>5000</td>			<td valign=top align=center>1500</td>			<td valign=top align=center>6500</td>			<td valign=top align=center>$0.011</td>		</tr>		<tr>			<td valign=top align=center>$104.14</td>			<td valign=top align=center>7500</td>			<td valign=top align=center>2775</td>			<td valign=top align=center>10725</td>			<td valign=top align=center>$0.0097</td>		</tr>	</tbody></table><h2 align=center>Conclusion</h2><p align=center>The more you buy UC, the more you save money.</p>"
+      },{
+         "id":1,
+         "name_category":"UC Calculator",
+         "title":"UC Calculator for IDR Rp",
+         "image":"file:///android_asset/image/id.png",
+         "description":"...",
+         "link":"<h1 align=center>UC Calculator for IDR Rp</h1><table border=1 align=center bordercolor=red>	<thead>		<tr>			<td valign=top align=center>Budget</td>			<td valign=top align=center>Basic UC</td>			<td valign=top align=center>Bonus UC</td>			<td valign=top align=center>Total UC</td>			<td valign=top align=center>Price 1 UC</td>		</tr>	</thead>	<tbody>		<tr>			<td valign=top align=center>Rp100.000</td>			<td valign=top align=center>500</td>			<td valign=top align=center>30</td>			<td valign=top align=center>530</td>			<td valign=top align=center>Rp188.7</td>		</tr>		<tr>			<td valign=top align=center>Rp150.000</td>			<td valign=top align=center>750</td>			<td valign=top align=center>75</td>			<td valign=top align=center>825</td>			<td valign=top align=center>Rp181.8</td>		</tr>		<tr>			<td valign=top align=center>Rp250.000</td>			<td valign=top align=center>1250</td>			<td valign=top align=center>125</td>			<td valign=top align=center>1375</td>			<td valign=top align=center>Rp181.8</td>		</tr>		<tr>			<td valign=top align=center>Rp500.000</td>			<td valign=top align=center>2500</td>			<td valign=top align=center>375</td>			<td valign=top align=center>2875</td>			<td valign=top align=center>Rp173.9</td>		</tr>		<tr>			<td valign=top align=center>Rp1.000.000</td>			<td valign=top align=center>5000</td>			<td valign=top align=center>1500</td>			<td valign=top align=center>6500</td>			<td valign=top align=center>Rp153.9</td>		</tr>		<tr>			<td valign=top align=center>Rp1.500.000</td>			<td valign=top align=center>7500</td>			<td valign=top align=center>2775</td>			<td valign=top align=center>10725</td>			<td valign=top align=center>Rp139.9</td>		</tr>	</tbody></table><h2 align=center>Conclusion</h2><p align=center>The more you buy UC, the more you save money.</p>"
+      }
+   ]
+}
