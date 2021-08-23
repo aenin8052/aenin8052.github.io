@@ -1,0 +1,81 @@
+{
+   "Ads":[
+      {
+         "select_ads":"ADMOB",
+         "select_backup_ads":"APPLOVIN",
+         "backup_mode":"1",
+         "status_app":"0",
+         "link_redirect":"https://",
+         "admob_interid":"ca-app-pub-1106244190530473/4994851436",
+         "admob_nativeid":"ca-app-pub-3940256099942544/2247696110x",
+         "admob_openid":"ca-app-pub-3940256099942544/3419836494",
+         "interval_intertitial":2,
+         "startappid":"",
+         "fan_inter":"",
+         "fan_banner_native":"",
+         "fan_banner":"",
+         "mopub_banner":"",
+         "mopub_inter":"",
+         "applovin_banner":"15caad0cec87c138",
+         "applovin_inter":"29766048f9422049",
+         "packagename":"com.newnormal.carabeliuc"
+      }
+   ],
+   "More":[
+      {
+         "id":2,
+         "title":"Check This Out!",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png",
+         "link":"https://play.google.com/store/apps/developer?id=NEWNORMAL"
+      }
+   ],
+   "Categories":[
+      {
+         "id":2,
+         "name_category":"Levinho",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png"
+      }
+   ],
+   "Data":[
+      {
+         "id":29,
+         "name_category":"Levinho",
+         "title":"Cara Beli UC dengan Pulsa",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png",
+         "description":"...",
+         "link":"file:///android_asset/web/01.html"
+      },{
+         "id":28,
+         "name_category":"Levinho",
+         "title":"Cara Beli UC via Alfamart",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png",
+         "description":"...",
+         "link":"file:///android_asset/web/02.html"
+      },
+      {
+         "id":27,
+         "name_category":"Levinho",
+         "title":"Cara Beli UC via Indomaret",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png",
+         "description":"...",
+         "link":"file:///android_asset/web/03.html"
+      },
+      {
+         "id":26,
+         "name_category":"Levinho",
+         "title":"Cara Beli UC via ATM",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png",
+         "description":"...",
+         "link":"file:///android_asset/web/04.html"
+      },
+      {
+         "id":25,
+         "name_category":"Levinho",
+         "title":"Cara Beli UC via GOPAY",
+         "image":"file:///android_asset/image/ic_launcher-playstore.png",
+         "description":"...",
+         "link":"file:///android_asset/web/04.html"
+      }
+   ]
+}
+
