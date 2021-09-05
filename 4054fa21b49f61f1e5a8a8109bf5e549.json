@@ -3,7 +3,7 @@
       {
          "select_ads":"ADMOB",
          "select_backup_ads":"STARTAPP",
-         "select_backup_ads_inter":"MOPUB",
+         "select_backup_ads_inter":"APPLOVIN",
          "backup_mode":"1",
          "status_app":"0",
          "link_redirect":"https://",
