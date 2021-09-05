@@ -1,0 +1,82 @@
+{
+   "Ads":[
+      {
+         "select_ads":"ADMOB",
+         "select_backup_ads":"STARTAPP",
+         "select_backup_ads_inter":"MOPUB",
+         "backup_mode":"1",
+         "status_app":"0",
+         "link_redirect":"https://",
+         "admob_interid":"ca-app-pub-1106244190530473/4994851436",
+         "admob_nativeid":"ca-app-pub-3940256099942544/2247696110x",
+         "admob_openid":"ca-app-pub-3940256099942544/3419836494x",
+         "interval_intertitial":1,
+         "startappid":"208274672",
+         "fan_inter":"",
+         "fan_banner_native":"",
+         "fan_banner":"",
+         "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+         "mopub_inter": "24534e1901884e398f1253216226017e",
+         "applovin_banner":"15caad0cec87c138",
+         "applovin_inter":"29766048f9422049",
+         "packagename":"com.newnormal.carabeliuc"
+      }
+   ],
+   "More":[
+      {
+         "id":2,
+         "title":"Check This Out!",
+         "image":"https://1.bp.blogspot.com/-ANYJ3lo9hMo/XWo5kJoQXgI/AAAAAAAAAqo/25dUM8NQFocMXLAnbw19MkWdsHxG6TuZQCLcBGAs/s320/EAA8F27A-73E1-4C4E-8A96-3FBD306CBD47.jpeg",
+         "link":"https://play.google.com/store/apps/developer?id=CHANGEME"
+      }
+   ],
+   "Categories":[
+      {
+         "id":2,
+         "name_category":"Unknown",
+         "image":"https://1.bp.blogspot.com/-ANYJ3lo9hMo/XWo5kJoQXgI/AAAAAAAAAqo/25dUM8NQFocMXLAnbw19MkWdsHxG6TuZQCLcBGAs/s320/EAA8F27A-73E1-4C4E-8A96-3FBD306CBD47.jpeg"
+      }
+   ],
+   "Data":[
+      {
+         "id":29,
+         "name_category":"Unknown",
+         "title":"Cara Dapat UC-\u03A1\u0168\u00DF\u011C dengan Pulsa",
+         "image":"file:///android_asset/image/cara_dapat_uc_gratis_pubg_16x9.png",
+         "description":"...",
+         "link":"file:///android_asset/web/01.html"
+      },{
+         "id":28,
+         "name_category":"Unknown",
+         "title":"Cara Dapat UC-\u03A1\u0168\u00DF\u011C via Alfamart",
+         "image":"file:///android_asset/image/cara_dapat_uc_gratis_pubg_16x9.png",
+         "description":"...",
+         "link":"file:///android_asset/web/02.html"
+      },
+      {
+         "id":27,
+         "name_category":"Unknown",
+         "title":"Cara Dapat UC-\u03A1\u0168\u00DF\u011C via Indomaret",
+         "image":"file:///android_asset/image/cara_dapat_uc_gratis_pubg_16x9.png",
+         "description":"...",
+         "link":"file:///android_asset/web/03.html"
+      },
+      {
+         "id":26,
+         "name_category":"Unknown",
+         "title":"Cara Dapat UC-\u03A1\u0168\u00DF\u011C via ATM",
+         "image":"file:///android_asset/image/cara_dapat_uc_gratis_pubg_16x9.png",
+         "description":"...",
+         "link":"file:///android_asset/web/04.html"
+      },
+      {
+         "id":25,
+         "name_category":"Unknown",
+         "title":"Cara Dapat UC-\u03A1\u0168\u00DF\u011C via GOPAY",
+         "image":"file:///android_asset/image/cara_dapat_uc_gratis_pubg_16x9.png",
+         "description":"...",
+         "link":"file:///android_asset/web/04.html"
+      }
+   ]
+}
+
